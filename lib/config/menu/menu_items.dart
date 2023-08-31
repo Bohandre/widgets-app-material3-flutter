@@ -70,6 +70,24 @@ const appMenuItems = <MenuItem>[
     icon: Icons.list_alt_rounded,
   ),
   MenuItem(
+    title: 'Bottom App Bar',
+    subTitle: 'Prueba con Bottom App Bar',
+    link: '/bottom-app-bar',
+    icon: Icons.line_weight_outlined,
+  ),
+  MenuItem(
+    title: 'Navigation Rail',
+    subTitle: 'Prueba con Navigation Rail',
+    link: '/navigation-rail',
+    icon: Icons.filter_list_outlined,
+  ),
+  MenuItem(
+    title: 'Slider Material 3',
+    subTitle: 'Prueba con Slider Material 3',
+    link: '/slider-screen',
+    icon: Icons.linear_scale_rounded,
+  ),
+  MenuItem(
     title: 'Temas',
     subTitle: 'Cambiar el tema global de la app',
     link: '/theme',

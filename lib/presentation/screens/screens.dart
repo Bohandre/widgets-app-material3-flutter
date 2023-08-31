@@ -9,3 +9,6 @@ export 'package:widgets_app/presentation/screens/progress/progress_screen.dart';
 export 'package:widgets_app/presentation/screens/snackbar/snackbar_screen.dart';
 export 'package:widgets_app/presentation/screens/theme_changer/theme_changer.dart';
 export 'package:widgets_app/presentation/screens/ui_controls/ui_controls.dart';
+export 'bottom_app_bar/bottom_app_bar_screen.dart';
+export 'navigation_rail/navigation_rail.dart';
+export 'slider/slider_screen.dart';
